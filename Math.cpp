@@ -13,7 +13,7 @@ int main() {
     double tienLai = tinhLaiDon(tienGoc, laiSuat, soNam);
 
     cout << "Tien lai: " << tienLai << " VND\n";
-    cout << "Tong tien: " << tienGoc + tienLai << " VND\n";
+    cout << "Tong: " << tienGoc + tienLai << " VND\n";
 
     return 0;
 }
